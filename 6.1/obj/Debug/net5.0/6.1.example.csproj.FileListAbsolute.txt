@@ -1,0 +1,16 @@
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\6.1.example.exe
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\6.1.example.deps.json
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\6.1.example.runtimeconfig.json
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\6.1.example.runtimeconfig.dev.json
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\6.1.example.dll
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\ref\6.1.example.dll
+F:\VSprojects 2\6.1.example\bin\Debug\net5.0\6.1.example.pdb
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.csprojAssemblyReference.cache
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.AssemblyInfoInputs.cache
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.AssemblyInfo.cs
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.csproj.CoreCompileInputs.cache
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.dll
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\ref\6.1.example.dll
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.pdb
+F:\VSprojects 2\6.1.example\obj\Debug\net5.0\6.1.example.genruntimeconfig.cache
